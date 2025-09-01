@@ -6675,6 +6675,10 @@ PrefabInstance:
       propertyPath: mybody
       value: 
       objectReference: {fileID: 2079931071}
+    - target: {fileID: 7724487122468173973, guid: 6255c15f41a6299488e4b80b3f9fcdbf, type: 3}
+      propertyPath: moveForce
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
